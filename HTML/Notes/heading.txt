@@ -1,0 +1,4 @@
+headings are used to implements important words or main features of certain context.
+HTML provide 6 headings from h1 to h6. the main difference between headings are size and important.
+lorem is an emmet to generate dummy paragraph.
+<p>lorem+enter</p> 

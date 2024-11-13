@@ -1,0 +1,2 @@
+anchor tag is used to link other web pages/other resources.we have a property/attribute to give the link as 'href'
+we use a tag for this.we have 

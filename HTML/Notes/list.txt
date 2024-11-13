@@ -1,0 +1,7 @@
+grocery list,todo list,menu list,contact list,attendend list.
+list in html can be denoted in three ways.
+  .  ordered list
+  .  unordered list
+  .  definition list/description list
+
+  ordered list:- some list need an order to represent the items. those are defined by ordered list.ordered list use 'OL'
