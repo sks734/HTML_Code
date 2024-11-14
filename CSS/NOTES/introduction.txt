@@ -1,0 +1,24 @@
+CSS(Cascadding Style sheet)-It is used to design/style the web pages.they were introduced in 1994.
+
+to design a website well,
+we need to concentrate three ways:
+----eye-friendly color
+----Fonts
+----Layouts
+
+how to link CSS to HTML?
+we can link css to html in three ways
+---inline CSS:- we can apply styles in HTML elements opening tag, style as a attribute.
+---internal css:-we can apply styles to any elements using style as a element
+    syntax:-selector{
+       // properties
+    }
+    Example:<!--Internal CSS-->
+    <style>
+        h1{
+            background-color: brown;
+            color: white;
+        }
+    </style>
+----External CSS:- we can create seprate file and attach to HTML using link tag
+    syntax:-<link rel="stylesheet" href="./style.css">    
