@@ -1,0 +1,13 @@
+background:-we can define background as a color or as an image.
+background-color:-this   property is used to set background-color and in the CSS,color can be denoted as
+1.By Name:-code editor provides basic color name suggestion.
+2.By hexcode:-every color have a hexacodecimal code start with # like #c675fc;
+3.RGB:-we can define any color as a mixture of red,green,blue where each color have range 0 to 255.
+4.HSL:-we can define any color as a Hue Saturation and lightness.
+    hue is  a degree of color from 0 to 359,Saturation and lightness are 0 to 100%
+    we can define different shades using alpha range
+
+ Gradient: we can mix color by gradient we can define gradient using background property.   
+    1. linear gradient-It mix a color in a line
+    2.Radial Gradient-It mix a color in a circular way
+ background images:-we can assign images to background by using background-image with url   

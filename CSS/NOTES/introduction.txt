@@ -22,3 +22,30 @@ we can link css to html in three ways
     </style>
 ----External CSS:- we can create seprate file and attach to HTML using link tag
     syntax:-<link rel="stylesheet" href="./style.css">    
+
+ inline >!important>Internal=External(mostly external dominates internal)  
+ !important:-it will be added property value such that its prefrences will be higher level
+ example:-<style>
+        h2{
+            background-color: blue !important;
+        }
+    </style> 
+ Basic Selector :-selector are used to identify an element of HTML in CSS
+ you can identify an elements basically in three ways:  
+ --tag:we can define properties using tag so that all elements with that tag will be selected.
+ --classname:-we need to select few elements we can assign same classname to all and identifythe classname in CSS using (.) notation
+ example:<h2 class="Sub">Course Subject</h2>
+ ------.Sub{color:"red";}
+ --id:-if we need to select only one element we can use id .we can identify in css by using # notation.
+ ------Example:<h2 id="Sub">Course Subject</h2>
+            #sub{color:red;}
+NOTE: an element might contain multiple classname and multiple elements might contain same classname.id's are always unique.
+id>classname>tag
+
+
+
+Combinators:-
+1.Direct-child (>):-we can identify an elements direct child  using (>)
+2.Desendeent:we can identify an elements using space combinators for desendents.
+3.Adjacent Sibbling Selector(+):-we can identify an elements which comes right after another elements using (+)
+4.General sibling selector(~):-we can identify an elements which comes  after an elements using (~).

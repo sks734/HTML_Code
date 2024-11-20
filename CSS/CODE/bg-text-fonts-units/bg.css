@@ -1,0 +1,9 @@
+.myheading{
+    background-color: aqua;
+
+}
+body{
+    height: 100vh;
+    background: linear-gradient(red,#0ce23a);
+    background: radial-gradient(rgb(255, 222, 192),orange,blue);
+}

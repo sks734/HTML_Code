@@ -1,0 +1,9 @@
+.Sub{
+    color: red;
+}
+#IOT{
+    color: blueviolet;
+}
+h1+p{
+    background-color: chartreuse;
+}
