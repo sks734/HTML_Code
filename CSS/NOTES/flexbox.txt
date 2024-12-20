@@ -1,0 +1,8 @@
+flex is used to display or arrange the elements/items in single direction
+direction is row or column
+we can define flex property to the parent such that all childitems arrange in row and column
+
+parent properties:-
+
+display:flex
+flex-direction

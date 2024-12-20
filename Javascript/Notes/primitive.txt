@@ -1,0 +1,2 @@
+Number:-Any numerical value is number
+Default mehod:-
