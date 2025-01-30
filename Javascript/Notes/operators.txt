@@ -1,0 +1,2 @@
+operators are used to perform operation between operands.
+ex:- a=b;

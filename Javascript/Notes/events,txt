@@ -1,0 +1,10 @@
+events  are the actions performed by user and trigger a new logic/function
+we have
+    i. Mouse events
+            Onclick
+            OndoubleClick
+            Onmouseover
+            Onmouseout
+    ii. Keyboard events:-triggerd by keboard actions
+    iii. form events
+    iv. window events

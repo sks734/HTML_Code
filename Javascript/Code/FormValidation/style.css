@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 24px;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(160deg,rgb(247, 172, 33),rgb(241, 21, 241));
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+#form{
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    background: rgb(199, 7, 7);
+    box-sizing: border-box;
+    box-shadow: 4px,6px,6px,rgb(19, 19, 18);
+    justify-content: center;
+    align-items:center ;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
